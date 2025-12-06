@@ -20,7 +20,5 @@ A Chrome extension to quickly access your favorite websites with a customizable 
 5. Click **Load unpacked** → select the extracted folder
 6. Extension is ready to use!
 
-## Screenshots
 
-*(Optional: add popup screenshot here)*
 
